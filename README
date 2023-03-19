@@ -8,4 +8,5 @@ This project will be used to consolidate and view data from multiple Raspberry P
 * Query data with Python
 * Setup Django structure
 * Serve simple web page
-*
+* Serve DataDriven page
+
