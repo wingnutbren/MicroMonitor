@@ -1,0 +1,10 @@
+#MicroMonitor
+
+This project will be used to consolidate and view data from multiple Raspberry Pi Zero sensors which will monitor light and temperature
+
+###Steps
+* Generate Default data within SQLite3
+* Query data with Python
+* Setup Django structure
+* Serve simple web page
+* more
