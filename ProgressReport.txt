@@ -32,5 +32,19 @@ Begin FluenPython Ch2
 
 3/22 am Rebuild python GreenHouseCode
 3/23 pm Finish Fluent CH2
-3/24 530 Watch Most Git Tutorial
+3/24 530 Watch Mosh Git Tutorial
 730 break
+800 Fluent Ch3 dict comps
+830 brekfast
+
+3/26 7a Job Hunting
+9a Fluent Python Book Ch3
+10a Fluent Pyton Book Ch3
+11a Fluent Python Book Ch4
+
+3/27 5am: fix django view,do_web_check.
+7am: breakfast, thaw
+9am: telecon Sirbu
+10am: job boards, Warbington
+1pm: lunch
+PM: Chicken Fencd
