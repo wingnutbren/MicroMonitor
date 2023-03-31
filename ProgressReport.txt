@@ -52,3 +52,25 @@
 3/28
         0530:   breakfast, design microservices
         0630:   Django models
+        0730:   Video:Codemy DJango Databases
+        0930:   Video:Codemy DJango Databases
+
+3/29
+        0600:   reading ch4: FluentPython
+        am:     Video:Codemy DJango Databases
+
+3/30    0600:   begin pi client (learn about post and csrftokens)
+        0830:   breakfast
+        0930:   Read ch5,talk with boys, plan hunt days
+
+
+
+
+
+
+
+
+
+
+
+   
