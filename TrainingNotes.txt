@@ -1,0 +1,4 @@
+From Red Hat site:
+  IaC :Infrastructure as code, two strategies: 1. Declaritive: define desired state and its properties and an IaC tool will configure
+  it for you, 2: Imperitive: configuration scripted and executed in order.
+
